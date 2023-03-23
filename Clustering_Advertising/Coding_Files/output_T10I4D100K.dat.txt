@@ -1,0 +1,47 @@
+SIMPLE RANDOMIZED ALGOTIRHM min support threshold = 1200 and sample size = 1% 
+----------------------------------------------
+Total time taken:  25.234375  sec
+Number of frequent item set (pairs):  11
+Sample Size: 1000
+Results:
+[[('390', '12'), 13], [('722', '12'), 14], [('39', '825'), 13], [('227', '12'), 14], [('888', '290'), 13], [('354', '214'), 14], [('722', '390'), 19], [('969', '888'), 13], [('722', '227'), 20], [('888', '208'), 13], [('227', '390'), 19]]
+
+
+
+SIMPLE RANDOMIZED ALGOTIRHM min support threshold = 1200 and sample size = 2% 
+----------------------------------------------
+Total time taken:  48.859375  sec
+Number of frequent item set (pairs):  7
+Sample Size: 2000
+Results:
+[[('39', '825'), 29], [('704', '825'), 32], [('217', '346'), 26], [('39', '704'), 28], [('368', '829'), 25], [('529', '598'), 25], [('682', '368'), 25]]
+
+
+
+SIMPLE RANDOMIZED ALGOTIRHM min support threshold = 1200 and sample size = 5% 
+----------------------------------------------
+Total time taken:  145.9375  sec
+Number of frequent item set (pairs):  6
+Sample Size: 5000
+Results:
+[[('825', '39'), 65], [('960', '471'), 62], [('825', '704'), 63], [('217', '346'), 70], [('368', '682'), 65], [('39', '704'), 62]]
+
+
+
+SIMPLE RANDOMIZED ALGOTIRHM min support threshold = 1200 and sample size = 10% 
+----------------------------------------------
+Total time taken:  342.234375  sec
+Number of frequent item set (pairs):  1
+Sample Size: 10000
+Results:
+[[('829', '789'), 142]]
+
+
+
+SON ALGORITHM min support threshold = 1200 
+----------------------------------------------
+Total time taken:  2788.890625  sec
+Number of frequent item set (pairs):  1
+Itemsets Size: 100000
+Results:
+[[('217', '346'), 1336]]

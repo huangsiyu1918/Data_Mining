@@ -1,0 +1,41 @@
+SIMPLE RANDOMIZED ALGOTIRHM min support threshold = 48000 and sample size = 1% 
+----------------------------------------------
+Total time taken:  0.03125  sec
+Number of frequent item set (pairs):  8
+Sample Size: 490
+[[('4438', '170'), 485], [('184', '180'), 481], [('170', '7062'), 485], [('4426', '7062'), 481], [('4438', '4426'), 481], [('4438', '7062'), 488], [('7062', '4428'), 482], [('4438', '4428'), 482]]
+
+
+SIMPLE RANDOMIZED ALGOTIRHM min support threshold = 48000 and sample size = 2% 
+----------------------------------------------
+Total time taken:  0.0625  sec
+Number of frequent item set (pairs):  6
+Sample Size: 981
+[[('4428', '4438'), 962], [('4438', '170'), 966], [('180', '4438'), 962], [('180', '184'), 964], [('4438', '7062'), 966], [('4438', '184'), 962]]
+
+
+
+SIMPLE RANDOMIZED ALGOTIRHM min support threshold = 48000 and sample size = 5% 
+----------------------------------------------
+Total time taken:  0.140625  sec
+Number of frequent item set (pairs):  6
+Sample Size: 2452
+[[('170', '7062'), 2411], [('4438', '170'), 2421], [('184', '180'), 2413], [('4438', '180'), 2405], [('4438', '184'), 2405], [('4438', '7062'), 2426]]
+
+
+
+SIMPLE RANDOMIZED ALGOTIRHM min support threshold = 48000 and sample size = 10% 
+----------------------------------------------
+Total time taken:  0.203125  sec
+Number of frequent item set (pairs):  7
+Sample Size: 4905
+[[('4438', '7062'), 4860], [('170', '7062'), 4824], [('4438', '180'), 4813], [('4438', '184'), 4813], [('180', '184'), 4822], [('4428', '4438'), 4802], [('4438', 
+'170'), 4851]]
+
+
+SON ALGORITHM min support threshold = 48000 
+----------------------------------------------
+Total time taken:  7.109375  sec
+Number of frequent item set(pairs):  7
+Itemsets Size: 49046
+[[('184', '4438'), 48156], [('180', '184'), 48258], [('4428', '4438'), 48091], [('7062', '4438'), 48529], [('180', '4438'), 48156], [('170', '4438'), 48470], [('7062', '170'), 48156]]

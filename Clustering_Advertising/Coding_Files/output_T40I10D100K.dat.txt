@@ -1,0 +1,45 @@
+SIMPLE RANDOMIZED ALGOTIRHM min support threshold = 6000 and sample size = 1%
+----------------------------------------------
+Total time taken:  33.4375  sec
+Number of frequent item set (pairs):  5
+Sample Size: 1000
+Results:
+[[('368', '510'), 62], [('368', '829'), 64], [('368', '489'), 65], [('368', '722'), 63], [('368', '682'), 68]]
+
+
+SIMPLE RANDOMIZED ALGOTIRHM min support threshold = 6000 and sample size = 2% 
+----------------------------------------------
+Total time taken:  75.0625  sec
+Number of frequent item set (pairs):  1
+Sample Size: 2000
+Results:
+[[('368', '529'), 139]]
+
+
+SIMPLE RANDOMIZED ALGOTIRHM min support threshold = 6000 and sample size = 5% 
+----------------------------------------------
+Total time taken:  221.734375  sec
+Number of frequent item set (pairs):  4
+Sample Size: 5000
+Results:
+[[('368', '529'), 377], [('368', '829'), 382], [('368', '682'), 313], [('368', '217'), 303]]
+
+
+
+SIMPLE RANDOMIZED ALGOTIRHM min support threshold = 6000 and sample size = 10% 
+----------------------------------------------
+Total time taken:  442.46875  sec
+Number of frequent item set (pairs):  5
+Sample Size: 10000
+Results:
+[[('489', '368'), 625], [('368', '529'), 740], [('682', '368'), 626], [('368', '829'), 701], [('368', '217'), 617]]
+
+
+
+SON ALGORITHM min support threshold = 6000 
+----------------------------------------------
+Total time taken:  3674.390625  sec
+Number of frequent item set (pairs):  5
+Itemsets Size: 100000
+Results:
+[[('368', '529'), 7500], [('489', '368'), 6120], [('368', '217'), 6125], [('368', '829'), 6957], [('682', '368'), 6130]]

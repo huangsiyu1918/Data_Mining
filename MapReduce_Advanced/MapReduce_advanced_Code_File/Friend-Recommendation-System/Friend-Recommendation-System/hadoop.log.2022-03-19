@@ -1,0 +1,8 @@
+2022-03-19 22:15:42,000 INFO org.apache.hadoop.yarn.client.RMProxy: Connecting to ResourceManager at /0.0.0.0:8032
+2022-03-19 22:15:42,270 WARN org.apache.hadoop.util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2022-03-19 22:16:26,790 INFO org.apache.hadoop.yarn.client.RMProxy: Connecting to ResourceManager at /0.0.0.0:8032
+2022-03-19 22:16:27,035 WARN org.apache.hadoop.util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2022-03-19 22:20:14,649 INFO org.apache.hadoop.yarn.client.RMProxy: Connecting to ResourceManager at /0.0.0.0:8032
+2022-03-19 22:20:14,901 WARN org.apache.hadoop.util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2022-03-19 22:21:56,425 INFO org.apache.hadoop.yarn.client.RMProxy: Connecting to ResourceManager at /0.0.0.0:8032
+2022-03-19 22:21:56,668 WARN org.apache.hadoop.util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable

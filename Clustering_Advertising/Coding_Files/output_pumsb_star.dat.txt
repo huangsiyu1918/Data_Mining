@@ -1,0 +1,42 @@
+SIMPLE RANDOMIZED ALGOTIRHM min support threshold = 35000 and sample size = 1% 
+----------------------------------------------
+Total time taken:  0.03125  sec
+Number of frequent item set (pairs):  4
+Sample Size: 490
+[[('161', '84'), 366], [('4499', '4502'), 357], [('161', '168'), 364], [('84', '168'), 364]]
+
+
+
+SIMPLE RANDOMIZED ALGOTIRHM min support threshold = 35000 and sample size = 2% 
+----------------------------------------------
+Total time taken:  0.078125  sec
+Number of frequent item set (pairs):  10
+Sample Size: 981
+[[('84', '4499'), 704], [('161', '4499'), 705], [('84', '168'), 747], [('161', '168'), 747], [('84', '4502'), 716], [('161', '4502'), 717], [('4499', '168'), 704], [('4499', '4502'), 718], [('84', '161'), 747], [('4502', '168'), 716]]
+
+
+
+SIMPLE RANDOMIZED ALGOTIRHM min support threshold = 35000 and sample size = 5% 
+----------------------------------------------
+Total time taken:  0.1875  sec
+Number of frequent item set (pairs):  5
+Sample Size: 2452
+[[('84', '161'), 1821], [('168', '161'), 1814], [('4502', '4499'), 1809], [('4933', '4937'), 1779], [('84', '168'), 1814]]
+
+
+
+SIMPLE RANDOMIZED ALGOTIRHM min support threshold = 35000 and sample size = 10% 
+----------------------------------------------
+Total time taken:  0.359375  sec
+Number of frequent item set (pairs):  5
+Sample Size: 4905
+[[('84', '161'), 3662], [('4499', '4502'), 3573], [('168', '161'), 3637], [('168', '84'), 3637], [('4933', '4937'), 3530]]
+
+
+
+SON ALGORITHM min support threshold = 35000 
+----------------------------------------------
+Total time taken:  4.921875  sec
+Number of frequent item set(pairs):  5
+Itemsets Size: 49046
+[[('4502', '4499'), 35768], [('161', '84'), 36475], [('4933', '4937'), 35182], [('84', '168'), 36267], [('161', '168'), 36267]]

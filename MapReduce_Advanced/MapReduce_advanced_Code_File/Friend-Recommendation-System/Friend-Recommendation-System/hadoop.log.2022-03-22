@@ -1,0 +1,2 @@
+2022-03-22 21:56:04,397 INFO org.apache.hadoop.yarn.client.RMProxy: Connecting to ResourceManager at /0.0.0.0:8032
+2022-03-22 21:56:04,657 WARN org.apache.hadoop.util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
